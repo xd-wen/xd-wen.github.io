@@ -1,20 +1,19 @@
 main:
 
   - title: Trading Strategy Leakage
-    authors: <strong>Xudong Wen</strong>
-    conference_short: MICCAI
-    conference: HKUST Business School PhD Student Conference; Wharton Finance-Accounting PhD Brownbag; HKUST PhD Brownbag
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    authors: Job Market Paper (sole author)
+    conference: HKUST Business School PhD Student Conference<br>Wharton Finance-Accounting PhD Brownbag<br>HKUST PhD Brownbag
+    pdf: 
     image: ./assets/img/teaser_example_2.png
 
   - title: "Inferring Mutual Fund Intra-Quarter Trading: An Application to ESG Window Dressing"
-    authors: Li An, Shiyang Huang, Dong Lou, <strong>Xudong Wen</strong>, Mingxin Xu
+    authors: with Li An, Shiyang Huang, Dong Lou, Mingxin Xu
     conference: 2025 CICF; 2024 WFA; 2024 EFA
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: 
     image: ./assets/img/teaser_example.png
 
   - title: "Information as a Constraint on Sanctions Enforcement"
-    authors: Avi Dutt, Abhiroop Mukherjee, George Panayotov, Debjit Roy, <strong>Xudong Wen</strong>
+    authors: with Avi Dutt, Abhiroop Mukherjee, George Panayotov, Debjit Roy
     conference: 2025 EEA
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: 
     image: ./assets/img/teaser_example.png
