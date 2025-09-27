@@ -3,6 +3,7 @@ main:
   - title: Trading Strategy Leakage
     authors: Job Market Paper (sole author)
     conference: 2025 FMA Special PhD Paper Presentations (scheduled)<br>2025 EFA Doctoral Tutorial<br>HKUST Business School PhD Student Conference (<em>Best Paper Award</em>)<br>Wharton Finance-Accounting PhD Brownbag<br>HKUST PhD Brownbag
+    pdf: https://www.xudongwen.com/assets/files/JMP.pdf
     image: ./assets/img/fig_TSL.png
 
   - title: "Inferring Mutual Fund Intra-Quarter Trading: An Application to ESG Window Dressing"
