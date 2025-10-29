@@ -8,6 +8,6 @@ Welcome! I am a Ph.D. candidate in Finance at the Hong Kong University of Scienc
 
 ## Research Interests
 
-- Empirical Asset Pricing, Financial Institutions, Information Disclosure, Machine Learning
+- Empirical Asset Pricing, Machine Learning, Financial Institutions, Information Disclosure
 
 {% include_relative _includes/publications.md %}
