@@ -7,8 +7,8 @@ main:
     image: ./assets/img/fig_TSL.png
 
   - title: "The Information Constraint in Market-based Sanctions Enforcement"
-    authors: with Avi Dutt, Abhiroop Mukherjee, George Panayotov, Debjit Roy
-    conference: Revise and Resubmit, <strong><em>Review of Economic Studies</em></strong><br>Presentations (* indicates presentation by co-authors)&#58;<br>2025 VINS Annual Conference, 2025 EEA*, FMA Asia*, HKU Summer Finance Conference*, Cheung Kong Graduate School of Business*, HKUST*, London Business School*, Monash University*, Shanghai Advanced Institute of Finance*, Education University of Hong Kong*, Tsinghua University*
+    authors: with Avi Dutt, Abhiroop Mukherjee, George Panayotov, Debjit Roy<br>Revise and Resubmit, <strong><em>Review of Economic Studies</em></strong>
+    conference: Presentations (* indicates presentation by co-authors)&#58;<br>2025 VINS Annual Conference, 2025 EEA*, FMA Asia*, HKU Summer Finance Conference*, Cheung Kong Graduate School of Business*, HKUST*, London Business School*, Monash University*, Shanghai Advanced Institute of Finance*, Education University of Hong Kong*, Tsinghua University*
     pdf: https://www.xudongwen.com/assets/files/Information_and_Sanctions.pdf
     image: ./assets/img/fig_SSSS.png
   
