@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I am a Ph.D. candidate in Finance at the Hong Kong University of Science and Technology.
+Welcome! I am an Assistant Professor of Financial Technology in University of Macau. I completed my PhD in Finance at Hong Kong University of Science and Technology in 2026.
 
 ## Research Interests
 
